@@ -1,8 +1,6 @@
-Fertilizers Recommentation System For Disease Prediction
+FERTILIZERS RECOMMENTATION SYSTEM FOR DISEASE PREDICTION
 
-<!-- ![20220918_234151](https://user-images.githubusercontent.com/53814610/195548115-69530cf3-e700-481e-bb3b-aa95baad23a2.jpeg") height="50px" width="50%"){:height="50px" width="50%"} -->
-
-<img src="https://user-images.githubusercontent.com/53814610/195548115-69530cf3-e700-481e-bb3b-aa95baad23a2.jpeg" height="50px" width="50%"/>
+<img src="https://user-images.githubusercontent.com/53814610/195548115-69530cf3-e700-481e-bb3b-aa95baad23a2.jpeg" height="450px" width="350"/>
 
 
 INTRODUCTION :
@@ -10,9 +8,9 @@ INTRODUCTION :
 
 An automated system is introduced to identify different diseases on plants by checking the symptoms shown on the leaves of the plant. Deep learning techniques are used to identify the diseases and suggest the precautions that can be taken for those diseases. 
 
-TEAM MEMBERS:Dharshini S,Deepthi M,Bala Harshithaa B,Debbana G
+TEAM MEMBERS: Dharshini S,Deepthi M,Bala Harshithaa B,Debbana G
 
-![image](https://user-images.githubusercontent.com/53814728/190921919-94303922-aac3-4b5a-aff1-a46440797a1a.png)
+<img src="https://user-images.githubusercontent.com/53814728/190921919-94303922-aac3-4b5a-aff1-a46440797a1a.png" height="350px" width="50%"/>
 
 
                                     
