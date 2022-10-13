@@ -1,7 +1,8 @@
 Fertilizers Recommentation System For Disease Prediction
 
 ![20220918_234151](https://user-images.githubusercontent.com/53814610/195548115-69530cf3-e700-481e-bb3b-aa95baad23a2.jpeg)
-<img src="[https://your-image-url.type](https://user-images.githubusercontent.com/53814610/195548115-69530cf3-e700-481e-bb3b-aa95baad23a2.jpeg)" width="100" height="100">
+
+<img src="https://your-image-url.type](https://user-images.githubusercontent.com/53814610/195548115-69530cf3-e700-481e-bb3b-aa95baad23a2.jpeg" width="100" height="100">
 
 
 INTRODUCTION :
